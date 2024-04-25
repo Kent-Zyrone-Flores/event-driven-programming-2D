@@ -130,17 +130,6 @@
                                 class="form-control mt-2">
                         </div>
                     </div>
-                    <div class="row mt-3">
-                        <div class="col-md-12">
-                            <hr>
-                </div>
-                <div class="col-md-3">
-                    <label>REGION : <b class="text-danger">*</b></label>
-                    <select name="input_region" id="input_region" class="form-control mt-2">
-                        <option value="" disabled selected>-- SELECT REGION --</option>
-                    </select>
-                </div>
-                </div>
                 </div>
                 <div class="card-footer">
                     <span style="float: right">
